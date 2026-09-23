@@ -25,5 +25,4 @@ You can place this shortcode on any normal WordPress page.
 ## Dynamic content
 Hero copy, buttons, stats, service cards and footer text are stored in a WordPress option and edited from the WordPress admin screen. This demonstrates CMS usability without a page builder.
 
-## Notes for the submitted assignment
-The supplied PDF describes a separate reference image but the PDF itself does not contain that image. Replace the visual/content values and CSS details after the actual reference image is supplied so the final desktop design can be matched precisely.
+ 
